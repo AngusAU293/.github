@@ -8,4 +8,4 @@ Anyway, not much else to cover I guess.
 
 Please feel free to take a look at some of my projects!
 
-[![HackerSploit's GitHub stats](https://github-readme-stats-hackersploit.vercel.app/api?username=AngusAU293)](https://github.com/AngusAU293/github-readme-stats)
+[![HackerSploit's GitHub stats](https://github-readme-stats-hackersploit.vercel.app/api?username=AngusAU293&show_icons=true&theme=merko)](https://github.com/AngusAU293/github-readme-stats)
